@@ -1,2 +1,2 @@
-# kubefed-poc
+# kubefed-controller
 Containership + kubefed POC
